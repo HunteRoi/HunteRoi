@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A young developer from Belgium</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunteroi" alt="hunteroi" /> </p>
 
 - 🔭 I’m currently working on [Casadelespiritu](https://github.com/casadelespiritu/casadelespiritu)
