@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hunteroi.github.io/](https://hunteroi.github.io/)
 
-- 📝 I often write articles on [https://tinaeldevresse.eu/blog](https://tinaeldevresse.eu/blog)
+- 📝 I sometimes write articles on [https://tinaeldevresse.eu/blog](https://tinaeldevresse.eu/blog)
 
 - 💬 Ask me about **JavaScript, TypeScript and .NET Core (C#)**
 
