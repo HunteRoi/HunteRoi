@@ -25,7 +25,7 @@ I have lots of dreams and little time to achieve them. I try to help where I can
 
 <h3>What am I good at? 💻</h3>
 
-I play with a bunch of things. In my daily profesionnal life, I'm a <b><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="16" height="16"/></a> CSharp</b> developer. 
+I play with a bunch of things. In my daily professional life, I'm a <b><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="16" height="16"/></a> CSharp</b> developer. 
 But when it comes to personal projects, I like to use both <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/></a> JavaScript</b>
 and <b><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="16" height="16"/></a> TypeScript</b>. 
 
