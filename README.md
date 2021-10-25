@@ -18,7 +18,6 @@ I have lots of dreams and little time to achieve them. I try to help where I can
 
 - [BlargBot](https://github.com/blargbot/blargbot), a multipurpose Discord bot
 - [DataDrop](https://github.com/IESN-IG/DataDrop), another Discord bot
-- [Bookary](https://github.com/hunteroi/bookary), a library manager
 - [Local Recipes](https://github.com/hunteroi/local-recipes), a small & personal recipes website 
 - [AnimesList](https://github.com/hunteroi/animeslist), a small & personal animes website
 - and more like [discord-server-generator](https://github.com/HunteRoi/discord-server-generator), [discord-selfrole](https://github.com/HunteRoi/discord-selfrole), [discord-temp-channels](https://github.com/HunteRoi/discord-temp-channels), [discord-mailbox](https://github.com/HunteRoi/discord-mailbox), ... !
