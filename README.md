@@ -17,6 +17,7 @@ On my spare time I enjoy helping others understand concepts, learn new things or
 I try to help wherever I can.
 
 <h4>→ Organizations 👨‍👧‍👦</h4>
+
 I am a member of a few organizations that I want to help. Most of my time is spent on projects from [Blargbot](https://github.com/blargbot) and [Section IG](https://github.com/section-ig).
 
 <h4>→ Projects 📑</h4>
