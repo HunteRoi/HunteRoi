@@ -14,12 +14,18 @@ On my spare time I enjoy helping others understand concepts, learn new things or
 
 <h3>What are my current interests? 📝</h3>
 
-I have lots of dreams and little time to achieve them. I try to help where I can:
+I try to help wherever I can.
 
-- [BlargBot](https://github.com/blargbot/blargbot), a multipurpose Discord bot
-- [DataDrop](https://github.com/IESN-IG/DataDrop), another Discord bot
-- [Local Recipes](https://github.com/hunteroi/local-recipes), a small & personal recipes website 
-- [AnimesList](https://github.com/hunteroi/animeslist), a small & personal animes website
+<h4>→ Organizations 👨‍👧‍👦</h4>
+I am a member of a few organizations that I want to help. Most of my time is spent on projects from [Blargbot](https://github.com/blargbot) and [Section IG](https://github.com/section-ig).
+
+<h4>→ Projects 📑</h4>
+Whether it is for various organizations or for myself, I like to develop stuff. Here is a sample of my works:
+
+- [DataDrop](https://github.com/section-IG/DataDrop), a tailored Discord bot for servers made by/for students of the Henallux.
+- [Reach The Levels](https://github.com/hunteroi/reach-the-levels), a website-based application to motivate people to finish projects by gaining points and utilizing those to get rewards.
+- [Local Recipes](https://github.com/hunteroi/local-recipes), a small & personal recipes website.
+- [AnimesList](https://github.com/hunteroi/animeslist), a small & personal anime website.
 - and more like [discord-server-generator](https://github.com/HunteRoi/discord-server-generator), [discord-selfrole](https://github.com/HunteRoi/discord-selfrole), [discord-temp-channels](https://github.com/HunteRoi/discord-temp-channels), [discord-mailbox](https://github.com/HunteRoi/discord-mailbox), ... !
 
 <h3>What am I good at? 💻</h3>
