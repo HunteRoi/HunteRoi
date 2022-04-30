@@ -23,20 +23,12 @@ I am a member of a few organizations that I want to help. Most of my time is spe
 <h4>→ Projects 📑</h4>
 Whether it is for various organizations or for myself, I like to develop stuff. Here is a sample of my works:
 
-- [DataDrop](https://github.com/section-IG/DataDrop), a tailored Discord bot for servers made by/for students of the Henallux.
 - [Reach The Levels](https://github.com/hunteroi/reach-the-levels), a website-based application to motivate people to finish projects by gaining points and utilizing those to get rewards.
-- [Local Recipes](https://github.com/hunteroi/local-recipes), a small & personal recipes website.
-- [AnimesList](https://github.com/hunteroi/animeslist), a small & personal anime website.
+- [DataDrop](https://github.com/section-IG/DataDrop), a tailored Discord bot for servers made by/for students of the Henallux (a v2 is on its way!).
+- [AnimesList](https://github.com/hunteroi/animeslist), a small anime website for personal use.
+- [Local Recipes](https://github.com/hunteroi/local-recipes), a small recipes website for personal use.
 - and more like [discord-server-generator](https://github.com/HunteRoi/discord-server-generator), [discord-selfrole](https://github.com/HunteRoi/discord-selfrole), [discord-temp-channels](https://github.com/HunteRoi/discord-temp-channels), [discord-mailbox](https://github.com/HunteRoi/discord-mailbox), ... !
 
-<h3>What am I good at? 💻</h3>
 
-I play with a bunch of things. In my daily professional life, I'm a <b><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="16" height="16"/></a> CSharp</b> developer. 
-But when it comes to personal projects, I like to use both <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/></a> JavaScript</b>
-and <b><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="16" height="16"/></a> TypeScript</b>. 
-
-I obviously also use frameworks such as <b><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="16" height="16" /></a> NodeJS</b>, <b><a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="16" height="16" /></a> Angular</b>, <b><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="16" height="16" /></a> React</b> and <b><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="16" height="16" /></a> .NET Core</b>.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hunteroi&show_icons=true&locale=en&layout=compact" alt="hunteroi" />
-</p>
+<h3>Metrics 📊</h3>
+![Metrics](./github-metrics.svg)
